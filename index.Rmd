@@ -9,14 +9,12 @@ knitr::opts_chunk$set(echo = TRUE)
 library(ggplot2)
 ```
 
-## GitHub Pages
-
 This is a basic R Markdown document to demonstrate hosting on GitHub Pages.
 
 Below is my favorite chart:
 
 ```{r chart, echo = FALSE}
-# Hadley's favourite pie chart
+# Hadley's favorite pie chart
 df <- data.frame(
   variable = c("does not resemble Pacman", "resembles Pacman"),
   value = c(20, 80)
