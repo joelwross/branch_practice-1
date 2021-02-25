@@ -12,3 +12,5 @@ These are a few of my favorite things:
 - Coffee
 - Me
 - Spiderman
+
+Happy Thursday Everyone!
